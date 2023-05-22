@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation&psig=AOvVaw2eln-kvqughQ4Za0CYhyG-&ust=1684839271746000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCODT5cXhiP8CFQAAAAAdAAAAABAD)]
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw2eln-kvqughQ4Za0CYhyG-&ust=1684839271746000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCODT5cXhiP8CFQAAAAAdAAAAABAH)]
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">Breaking the boundaries of what's possible with code.</h3>
-<img align="right" alt="Coding" width="400" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FSupianIDz%2FSupianIDz&psig=AOvVaw0kSd8PwkL0_b6OQyd_AhhQ&ust=1684838933575000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCIDCkaTgiP8CFQAAAAAdAAAAABAH">
+<img align="right" alt="Coding" width="400" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fcarlyberry.me%2Fportrait-animated-gif&psig=AOvVaw0kSd8PwkL0_b6OQyd_AhhQ&ust=1684838933575000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCIDCkaTgiP8CFQAAAAAdAAAAABAm">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iaddy29&label=Profile%20views&color=0e75b6&style=flat" alt="iaddy29" /> </p>
 
