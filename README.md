@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw2eln-kvqughQ4Za0CYhyG-&ust=1684839271746000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCODT5cXhiP8CFQAAAAAdAAAAABAH)]
+[![MasterHead](https://i.pinimg.com/originals/8d/cf/f5/8dcff574e422b9b37d176a58faaf437c.jpg)]
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">Breaking the boundaries of what's possible with code.</h3>
 <img align="right" alt="Coding" width="400" src"https://www.google.com/url?sa=i&url=https%3A%2F%2Fcarlyberry.me%2Fportrait-animated-gif&psig=AOvVaw0kSd8PwkL0_b6OQyd_AhhQ&ust=1684838933575000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCIDCkaTgiP8CFQAAAAAdAAAAABAm">
