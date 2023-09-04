@@ -1,7 +1,8 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/5a3d0d69916383.5b940de056028.gif)]
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">Breaking the boundaries of what's possible with code.</h3>
-<img align="right" alt="Coding" width="400" src"https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif">
+<img align="right" alt="Coding" width="400"/>
+<img src="https://i.pinimg.com/originals/ce/69/4f/ce694f560636dffcf42ecf40d4f2f962.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iaddy29&label=Profile%20views&color=0e75b6&style=flat" alt="iaddy29" /> </p>
 
