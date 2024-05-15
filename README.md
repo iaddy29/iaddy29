@@ -52,7 +52,3 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=iaddy29&" alt="iaddy29" />
 </p>
-
----
-
-Feel free to adjust the content or formatting according to your preferences!
